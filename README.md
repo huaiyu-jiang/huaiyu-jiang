@@ -9,8 +9,4 @@ AI/ML Engineer at [AtlasCloud](https://www.atlascloud.ai), an LLM inference prov
 - **Serving**: prefill/decode disaggregation with dynamic P/D instance scheduling
 - **TPU**: contributing to vllm-torchtpu and sglang-torchtpu
 
-**Open-source contributions**
-<!-- add merged PRs here, e.g. -->
-<!-- - sgl-project/sglang #xxxxx: short description -->
-
 **Background**: M.S. Columbia University · B.S. UC Davis (CS) · previously systematic crypto strategies at Lucy Labs and research at Acadian Asset Management
